@@ -1,0 +1,6 @@
+@GenAI_Workshop_Assessment_2025_HostAddress = http://localhost:5287
+
+GET {{GenAI_Workshop_Assessment_2025_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
