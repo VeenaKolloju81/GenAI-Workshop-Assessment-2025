@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GenAI-Workshop-Assessment-2025")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27ae30de0c9ec2d7be3c819b38bb10b200aaa7c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14766cfb84c99c68d99830f11e9d6595299d8092")]
 [assembly: System.Reflection.AssemblyProductAttribute("GenAI-Workshop-Assessment-2025")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GenAI-Workshop-Assessment-2025")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
