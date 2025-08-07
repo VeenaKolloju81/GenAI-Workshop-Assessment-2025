@@ -31,3 +31,8 @@ C:\7-Aug\GenAI-Workshop-Assessment-2025\GenAI-Workshop-Assessment-2025\obj\Debug
 C:\7-Aug\GenAI-Workshop-Assessment-2025\GenAI-Workshop-Assessment-2025\obj\Debug\net8.0\GenAI-Workshop-Assessment-2025.pdb
 C:\7-Aug\GenAI-Workshop-Assessment-2025\GenAI-Workshop-Assessment-2025\obj\Debug\net8.0\GenAI-Workshop-Assessment-2025.genruntimeconfig.cache
 C:\7-Aug\GenAI-Workshop-Assessment-2025\GenAI-Workshop-Assessment-2025\obj\Debug\net8.0\ref\GenAI-Workshop-Assessment-2025.dll
+C:\7-Aug\GenAI-Workshop-Assessment-2025\GenAI-Workshop-Assessment-2025\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\7-Aug\GenAI-Workshop-Assessment-2025\GenAI-Workshop-Assessment-2025\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\7-Aug\GenAI-Workshop-Assessment-2025\GenAI-Workshop-Assessment-2025\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\7-Aug\GenAI-Workshop-Assessment-2025\GenAI-Workshop-Assessment-2025\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\7-Aug\GenAI-Workshop-Assessment-2025\GenAI-Workshop-Assessment-2025\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
