@@ -1,3 +1,36 @@
+# question
+1.RESTful API Generation
+Use Case: Create a RESTful API controller/Screen for a "Product" entity in a web application. 
+
+Requirement:
+Generate a controller/Screen with CRUD operations/buttons (GET, POST, PUT, DELETE) 
+Include proper HTTP status codes and response handling 
+Add input validation and error handling 
+Include appropriate HTTP method annotations 
+Support both individual item and collection operations 
+
+Evaluation Points: 
+Prompt clarity and specificity 
+Complete CRUD implementation 
+Proper HTTP conventions 
+Error handling implementation 
+
+
+# Prompts
+
+# GenAI Workshop Assessment 2025
+1.Create a C# class Product with Id, Name, Description, and Price properties.
+
+2.Create an ASP.NET Core API controller named ProductController with CRUD methods (GET all products, GET product by ID, POST to create a product, PUT to update a product, DELETE to delete a product). Use an in-memory list to store products. Include proper HTTP method annotations and return appropriate HTTP status codes.
+
+3.Add input validation in the ProductController so that POST and PUT requests check that the product’s Name is not empty and Price is greater than zero. Return 400 Bad Request with a meaningful message if validation fails. Also, handle cases where a product is not found and return 404 Not Found. Wrap methods in try-catch blocks to handle unexpected errors and return 500 Internal Server Error if exceptions occur.
+
+4.Convert all CRUD methods in ProductController to async methods using Task<IActionResult>. Use async/await when accessing the in-memory product list or database. Ensure that all HTTP responses and error handling are preserved in the async versions.
+
+# commands used
+dotnet new webapi -n GenAI-Workshop-Assessment-2025 --use-controllers
+
+
 # Product RESTful API (ASP.NET Core 8)
 
 This project provides a simple RESTful API for managing "Product" entities using ASP.NET Core 8 Web API. It demonstrates CRUD operations, input validation, error handling, and proper HTTP status codes using an in-memory list for storage.
@@ -51,5 +84,7 @@ Content-Type: application/json
 
 - This API uses an in-memory list for demonstration and does not persist data between runs.
 - No database setup is required.
+
+
 
 ---
